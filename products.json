@@ -1,0 +1,64 @@
+{
+  "products": [
+    {
+      "name": "Classic Navy Suit",
+      "description": "A timeless navy suit for the modern gentleman.",
+      "price": 299.99,
+      "image": "images/image1.jfif"
+    },
+    {
+      "name": "Slim Fit Charcoal Blazer",
+      "description": "A sharp and stylish charcoal blazer that fits perfectly.",
+      "price": 149.99,
+      "image": "images/image2.jfif"
+    },
+    {
+      "name": "Crisp White Dress Shirt",
+      "description": "A classic white dress shirt that's perfect for any occasion.",
+      "price": 49.99,
+      "image": "images/image3.jfif"
+    },
+    {
+      "name": "Black Tuxedo",
+      "description": "An elegant black tuxedo for formal events and weddings.",
+      "price": 399.99,
+      "image": "images/image4.jfif"
+    },
+    {
+      "name": "Khaki Chinos",
+      "description": "Comfortable and versatile khaki chinos for everyday wear.",
+      "price": 69.99,
+      "image": "images/image5.jfif"
+    },
+    {
+      "name": "Navy Blue Dress Shoes",
+      "description": "High-quality navy blue dress shoes for a polished look.",
+      "price": 129.99,
+      "image": "images/image6.jfif"
+    },
+    {
+      "name": "Striped Silk Tie",
+      "description": "A stylish striped silk tie to complete your ensemble.",
+      "price": 29.99,
+      "image": "images/image7.jfif"
+    },
+    {
+      "name": "Wool Blend Overcoat",
+      "description": "A warm and fashionable wool blend overcoat for winter.",
+      "price": 199.99,
+      "image": "images/image8.jfif"
+    },
+    {
+      "name": "Brown Leather Belt",
+      "description": "A classic brown leather belt to complete your look.",
+      "price": 39.99,
+      "image": "images/image8.jfif"
+    },
+    {
+      "name": "Denim Jeans",
+      "description": "Durable and stylish denim jeans for a casual yet trendy look.",
+      "price": 79.99,
+      "image": "images/image10.jfif"
+    }
+  ]
+}
